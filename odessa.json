@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "@miguelbarretoo",
+            "oem": "Motorola",
+            "device": "Motorola G9 Plus",
+            "filename": "crDroidAndroid-16.0-20260419-odessa-v12.9.zip",
+            "download": "https://sourceforge.net/projects/crdroid/files/odessa/12.x/crDroidAndroid-16.0-20260419-odessa-v12.9.zip/download",
+            "timestamp": 1776576120,
+            "md5": "12fdd1447f217c52ca0cf7e4da10655a",
+            "sha256": "9e9c14c1691f912a065f58fc7288c63a8eb60083678b079ec83ef0cec967dcba",
+            "size": 1171871848,
+            "version": "12.9",
+            "buildtype": "Monthly",
+            "forum": "",
+            "gapps": "https://sourceforge.net/projects/nikgapps/",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "t.me/g9plusupdates",
+            "dt": "https://github.com/miguelbarretoo/android_device_motorola_odessa.git",
+            "common-dt": "https://github.com/miguelbarretoo/android_device_motorola_sm6150-common.git",
+            "kernel": "https://github.com/miguelbarretoo/android_kernel_motorola_sm6150.git"
+        }
+    ]
+}
